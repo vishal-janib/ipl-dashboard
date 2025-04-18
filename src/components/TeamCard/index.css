@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.team-names-logo-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  margin: 10px;
+}
+.logo-images {
+  height: 10vh;
+  margin-right: 10px;
+}
+.team-names {
+  color: white;
+  font-family: 'Bree Serif';
+}
